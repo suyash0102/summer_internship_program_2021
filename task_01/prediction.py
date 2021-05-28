@@ -1,4 +1,5 @@
 import joblib
+print(f'!!! WELCOME TO SALARY PREDICTOR PROGRAM !!!')
 name = input('Kindly enter your name: ')
 numyexp = float(input('Kindly enter your experience in no. of years: '))
 model=joblib.load('salary_prediction.pk1')
