@@ -1,39 +1,7 @@
-# summer_internship_program_2021
+Task 01
+![Task1](https://user-images.githubusercontent.com/59247598/120343361-43da2a00-c316-11eb-9f14-6c32f609f8c4.jpeg)
+https://github.com/suyash0102/summer_internship_program_2021/tree/main/task_01
 
-Commands used while performing the task
- 
-sudo -su root
-
-yum repolist
-
-yum install docker -y 
-
-systemctl start docker
-
-systemctl enable docker
-
-systemctl status docker
-
-docker images
-
-docker ps
-docker pull centos:latest
-docker run -it --name SalaryPrediction centos:latest
-
-yum install python3
-
-pip3 install pandas
-
-pip3 install sklearn
-
-yum install git
-
-git clone https://github.com/suyash0102/summer_internship_program_2021.git
-
-vi model.py
-
-vi prediction.py
-
-python3 model.py
-
-python3 prediction.py
+Task 02
+![Task 02 Thumbnail](https://user-images.githubusercontent.com/59247598/120343273-33c24a80-c316-11eb-9d8b-f04d3c6d30b2.jpeg)
+https://github.com/suyash0102/summer_internship_program_2021/tree/main/task_02
